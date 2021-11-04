@@ -14,3 +14,4 @@ for i in range(k):   # k 번째 요소까지
         break
 
 print(sum(list_a))   # 답안출력
+
